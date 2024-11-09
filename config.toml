@@ -1,0 +1,10 @@
+[[sources]]
+name = "mainnet rpc"
+url = "https://api.mainnet-beta.solana.com/"
+source_type = "Rpc"
+
+[[sources]]
+name = "grpc"
+url = "grpc_url"
+token = "token"
+source_type = "Grpc"
